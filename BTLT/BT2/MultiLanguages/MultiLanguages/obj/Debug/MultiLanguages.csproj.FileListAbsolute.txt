@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\bin\Debug\Language\Form1.xml
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\bin\Debug\MultiLanguages.exe
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\bin\Debug\MultiLanguages.pdb
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.Form1.resources
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.Properties.Resources.resources
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.csproj.GenerateResource.cache
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.exe
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\obj\Debug\MultiLanguages.pdb
+\\Mac\Home\Documents\LTTQ\LTTQ\BTLT\BT2\MultiLanguages\MultiLanguages\bin\Debug\MultiLanguages.exe.config

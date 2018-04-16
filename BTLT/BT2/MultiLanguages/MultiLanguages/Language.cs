@@ -68,19 +68,21 @@ namespace MultiLanguages
             frm.Text = this.get_text(this.ds.Tables[0], to, frm.Text, from);
             foreach (Control control in frm.Controls)
             {
-                switch (control.GetType().ToString())
-                {
-                    case "System.Windows.Forms.Label":
-                    case "System.Windows.Forms.Button":
-                        control.Text = this.get_text(this.ds.Tables[0], to, control.Text, from);
-                        break;
-                    case "System.Windows.Forms.Panel":
-                        break;
-                    case "System.Windows.Forms.GroupBox":
-                        break;
-                    case "System.Windows.Forms.TabControl":
-                        break;
-                }
+                control.Text = this.get_text(this.ds.Tables[0], to, control.Text, from);
+                //switch (control.GetType().ToString())
+                //{
+                //    case "System.Windows.Forms.Label":
+                //    case "System.Windows.Forms.Button":
+                //    case "System.Windows.Forms.CheckBox":
+                //        control.Text = this.get_text(this.ds.Tables[0], to, control.Text, from);
+                //        break;
+                //    case "System.Windows.Forms.Panel":
+                //        break;
+                //    case "System.Windows.Forms.GroupBox":
+                //        break;
+                //    case "System.Windows.Forms.TabControl":
+                //        break;
+                //}
             }
             ChangeMainMenu(frmName, frm.MainMenuStrip, this.ds);
         }
