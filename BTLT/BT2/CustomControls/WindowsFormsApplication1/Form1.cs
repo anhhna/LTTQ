@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
         {
             if (this.colorDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                this.textBoxColor1.Color = this.colorDialog1.Color;
+                this.textBoxColor1.Color12 = this.colorDialog1.Color;
             }
         }
 
@@ -30,6 +30,14 @@ namespace WindowsFormsApplication1
             if (this.fontDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
                 this.textBoxFont1.FontFromText = this.fontDialog1.Font;
+            }
+        }
+
+        private void textBoxColor2_ButtonColorClick(object sender, EventArgs e)
+        {
+            if (this.colorDialog1.ShowDialog() == DialogResult.OK)
+            {
+
             }
         }
     }

@@ -13,6 +13,10 @@ namespace MultiLanguages
     {
         Language lang = new Language();
 
+        // user     permission
+        // a        1, 11, 12
+        // b        2+21+22
+
         public Form1()
         {
             InitializeComponent();
@@ -36,6 +40,11 @@ namespace MultiLanguages
                 this.lang.ChangeLanguage(this.Name, this);
                 this.tsmiAnh.Checked = false;
             }
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            Console.WriteLine(e.KeyCode);
         }
     }
 }

@@ -18,7 +18,7 @@ namespace hsCustomControl
             InitializeComponent();
         }
 
-        public Color Color
+        public Color Color12
         {
             get
             {
@@ -32,6 +32,7 @@ namespace hsCustomControl
                     string strColorString = converter.ConvertToString(value);
                     this.tbColor.Text = strColorString;
                     this.lblColor.BackColor = value;
+
                 }
                 catch (Exception ex)
                 {
